@@ -5,6 +5,11 @@
         "phpunit/phpunit": "^5.7",
         "fabpot/php-cs-fixer": "^2.0"
     },
+    "autoload" : {
+        "psr-4" : {
+            "" : "src/"
+        }
+    },
     "authors": [
         {
             "name": "Samuel",
