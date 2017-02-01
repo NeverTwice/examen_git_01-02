@@ -1,0 +1,14 @@
+{
+    "name": "sam/examen_git_01-02",
+    "description": "Examen Outil du Developpeur",
+    "require": {
+        "phpunit/phpunit": "^5.7",
+        "fabpot/php-cs-fixer": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Samuel",
+            "email": "samuelantunes@hotmail.fr"
+        }
+    ]
+}
