@@ -12,7 +12,7 @@ class StringFormatterTest extends \PHPUnit_Framework_TestCase {
 
 	/**
 	 * [testSuffixConcatStringSuccess Checks if the method concats the string is done with success]
-	 * @return [Assert] [If is equal, test is OK]
+	 * @return [Assert] [If is equal, test is OK] 
 	 */
 	public function testSuffixConcatStringSuccess() {
 		$myClass = new StringFormatter();

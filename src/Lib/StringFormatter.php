@@ -41,7 +41,7 @@ class StringFormatter {
     /**
      * @param string $firstString
      * @param string $secondString
-     * @return string
+     * @return string 
      */
     public function concatString($firstString, $secondString) {
         return $firstString . $secondString;

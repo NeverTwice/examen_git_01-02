@@ -5,4 +5,4 @@
 				<directory>tests/Lib</directory>
 			</testsuite>
 		</testsuites>
-	</phpunit>
+	</phpunit> 

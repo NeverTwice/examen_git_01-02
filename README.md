@@ -1,7 +1,7 @@
 #Examen de Git - 01/02/2017
 
 Author/Dev : Samuel ALVES DE AZEVEDO - 3AIW2
-Email : samuelantunes@hotmail.fr
+Email : samuelantunes@hotmail.fr 
 
 Pour ce faire vous devrez :
 -	Initialser un projet versionner avec git et versionner proprement chaque commit.
